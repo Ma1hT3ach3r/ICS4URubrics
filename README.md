@@ -3,30 +3,47 @@ Creating Rubrics for ICS4U course
 ## Detailed Rubric
 
 Subjective evaluation will be made on your work/process according to the following criteria:
-
+(Mandatory)
 ### 1. Intro to JavaScript
 * 4: Developer completes all projects(spaceships) and all challenges(stars).
 * 3. Developer completes all projects(spaceships) and some challenges and has read some documents(articles)
 * 2. Developer completes most projects and some challenges and has read some articles.
 * 1. Developer completes some projects and some challenges and some articles.
-
+(Mandatory)
 ### 2. Intro to HTML/CSS
 * 4: Developer completes all projects(spaceships) and all challenges(stars).
 * 3. Developer completes all projects(spaceships) and some challenges and has read some documents(articles)
 * 2. Developer completes most projects and some challenges and has read some articles.
 * 1. Developer completes some projects and some challenges and some articles.
-
+(Mandatory)
 ### 3. Algorithms
 * 4: Developer completes all projects(spaceships) and all challenges(stars).
 * 3. Developer completes all projects(spaceships) and some challenges and has read some documents(articles)
 * 2. Developer completes most projects and some challenges and has read some articles.
 * 1. Developer completes some projects and some challenges and some articles.
-
+(Mandatory)
 ### 4. Natural Simulations
 * 4: Developer completes all projects(spaceships) and all challenges(stars).
 * 3. Developer completes all projects(spaceships) and some challenges and has read some documents(articles)
 * 2. Developer completes most projects and some challenges and has read some articles.
 * 1. Developer completes some projects and some challenges and some articles.
+(
+### 5. Micro Controller Course
+* 4. Developer completes all tasks assigned to her/him. Documentation logs progress and shows interest in task. 
+* 3. Developer completes all tasks assigned to her/him. Some documentation.
+* 2. Developer completes 
+* 1. 
+
+(Mandatory)
+### 6. 20time
+* 4. Student has automated certain aspects of their log
+
+### 7. Coding Challenge
+* 4. Team has constructed a webpage(ghpages), used social media, to promote their coding challenge. Each person has a contributed one original creationof the coding challenge to the repository. Other people have tried and contributed to their coding challenge through submissions, links, comments, pull requests, etc. to show what they made from their inspiration.
+* 3 THe coding challenge was mostly successful.
+* 2 The coding challenge was successful in some aspects. People listene
+* 1 The coding challenge was attempted and an attempt was made but was unsuccessful.
+
 
 ### 1. Satisfactory Progress
 
@@ -35,12 +52,6 @@ Subjective evaluation will be made on your work/process according to the followi
 * 2: Developer completes iterations 1 through 5 with some bugs or missing functionality.
 * 1: Developer fails to complete iterations 1 through 4, or there are significant issues with delivered functionality.
 
-### 2. Ruby Syntax & Style
-
-* 4: Developer is able to write Ruby demonstrating a broad/deep understanding of available language features. Application demonstrates great understanding of Object-Oriented modeling. Developer can speak to choices made in the code and knows what every line of code is doing.
-* 3: Developer is able to write idiomatic and effective Ruby. Application makes good use of Object-Oriented modeling with few gaps in class identification and component extraction. Developer can speak to choices made in the code and knows what every line of code is doing.
-* 2: Developer is able to accomplish tasks with Ruby code, but lacks attention to broader design and organizational concepts. Developer is not confident in what every line of the code is doing or cannot speak to the choices made.
-* 1: Developer is generally able to write Ruby, but code is sloppy, disorganized, or poorly factored.
 
 ### 3. Rails Style & API
 
@@ -61,7 +72,7 @@ Subjective evaluation will be made on your work/process according to the followi
 ### 5. Testing
 
 * 4: Developer excels at taking small steps and using the tests for *both* design and verification. Developer uses integration tests, controller tests, and model tests where appropriate.
-* 3: Developer writes tests that are effective validation of functionality, but don't drive the design. Developer uses integration tests, controller tests, and model tests where appropriate.
+* 3: Developer writes tests that are effective validation of functionality, but doesn't drive the design. Developer uses integration tests, controller tests, and model tests where appropriate.
 * 2: Developer uses tests to guide development, but implements more functionality than the tests cover. Application is missing tests in a needed area such as model, integration, or controller tests.
 * 1: Developer is able to write tests, but they're written after or in the middle of implementation.
 * 0: Developer does not use tests to guide development.
