@@ -4,6 +4,30 @@ Creating Rubrics for ICS4U course
 
 Subjective evaluation will be made on your work/process according to the following criteria:
 
+### 1. Intro to JavaScript
+* 4: Developer completes all projects(spaceships) and all challenges(stars).
+* 3. Developer completes all projects(spaceships) and some challenges and has read some documents(articles)
+* 2. Developer completes most projects and some challenges and has read some articles.
+* 1. Developer completes some projects and some challenges and some articles.
+
+### 2. Intro to HTML/CSS
+* 4: Developer completes all projects(spaceships) and all challenges(stars).
+* 3. Developer completes all projects(spaceships) and some challenges and has read some documents(articles)
+* 2. Developer completes most projects and some challenges and has read some articles.
+* 1. Developer completes some projects and some challenges and some articles.
+
+### 3. Algorithms
+* 4: Developer completes all projects(spaceships) and all challenges(stars).
+* 3. Developer completes all projects(spaceships) and some challenges and has read some documents(articles)
+* 2. Developer completes most projects and some challenges and has read some articles.
+* 1. Developer completes some projects and some challenges and some articles.
+
+### 4. Natural Simulations
+* 4: Developer completes all projects(spaceships) and all challenges(stars).
+* 3. Developer completes all projects(spaceships) and some challenges and has read some documents(articles)
+* 2. Developer completes most projects and some challenges and has read some articles.
+* 1. Developer completes some projects and some challenges and some articles.
+
 ### 1. Satisfactory Progress
 
 * 4: Developer completes iterations 1 through 6 as well as an additional supporting feature
