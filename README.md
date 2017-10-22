@@ -1,6 +1,10 @@
 # ICS4URubrics
 Rubrics for ICS4U course
 
+At this time each assessment is 10% if more sections are completed student will be given form to fill out to apply for assessment.
+
+Assessments will only be graded once and there will be one re-grading opportunity where the grade will move up or down 1%. That will then have to be accepted by the student.
+
 **Be aware that all work done in this course should be able to be seen on GitHub. Your use of GitHub(and Git) is essential to demostrate proficiency in this course.**
 
 ## Detailed Rubric
@@ -39,24 +43,28 @@ Subjective evaluation will be made on your work/process according to the followi
 ### 5. Micro Controller Course (10%)
 * 4. Developer completes all tasks assigned to her/him. Documentation logs progress and shows interest in task. 
 * 3. Developer completes all tasks assigned to her/him. Some documentation.
-* 2. Developer completes 
-* 1. 
+* 2. Developer completes some of the tasks but has no documentation and code does not function.
+* 1. Developer completes some tasks but without any evidence to show for it.
 
 (Mandatory)
 ### 6. 20time(10%)
-* 4. Student has automated certain aspects of their log
+* 4. Student has completed all of their logs and demostrates strong project management techniques through use of GitHub. Documentation, and use of GitHub intracacies not discussed in class are present. A natural connection to computer science is present. The presentation demonstrates that the student learned a variety of lessons from their experiance.
+* 3. Student has completed all of their logs on time. Use of Wiki and Project tab are on-going. Presentation shows that a variety of learning was present.
+* 2. Student has completed some/most of their logs on time. Little documentation. Presentation was lacking in preparation.
+* 1. Student has not completed logs in general. No documention. Presentation did not occur.
 
+(Mandatory)
 ### 7. Coding Challenge(10%)
 * 4. Team has constructed a webpage(ghpages), used social media, to promote their coding challenge. Each person has a contributed one original creationof the coding challenge to the repository. Other people have tried and contributed to their coding challenge through submissions, links, comments, pull requests, etc. to show what they made from their inspiration.
 * 3 THe coding challenge was mostly successful.
-* 2 The coding challenge was successful in some aspects. People listene
+* 2 The coding challenge was successful in some aspects. People listened
 * 1 The coding challenge was attempted and an attempt was made but was unsuccessful.
 
-### Extra. Khan Academy (10%)
-Students are to submit the document to apply for this 10% on a contract basis. An assessment will be done and one period of renegotiation (will go up min .5% max 1%).
+(Can be used to replace Micro-Controller course, or improve grade)
+### Extra. Khan Academy (10% each section completed) (i.e. more HTML, JQuery, SQL, Games, etc.)
+More to come on this but essentially each section is 10% and completion of all challenges and projects are required to reach level 4.
 
-
-### 8. Javascript Syntax & Style (10%)
+### 8. Javascript Syntax & Style (10%) [self-assessemnt then evaluation of self-assessment]
 
 * 4: Developer uses elegant and idiomatic Javascript to accomplish common tasks. Demonstrates solid understanding of function passing and manipulation. Developer can speak to choices made in the code and knows what every line of code is doing.
 * 3: Developer writes solid Javascript code using common patterns and idioms. Code is organized appropriately within objects and functions. Developer can speak to choices made in the code and knows what every line of code is doing.
@@ -64,29 +72,7 @@ Students are to submit the document to apply for this 10% on a contract basis. A
 * 1: Developer can manipulate Javascript syntax but implementation is buggy or inconsistent.
 * 0: Developer shows little or no understanding of Javascript syntax and idioms
 
-### 9. Testing (10%)
-
-* 4: Developer excels at taking small steps and using the tests for *both* design and verification. Developer uses integration tests, controller tests, and model tests where appropriate.
-* 3: Developer writes tests that are effective validation of functionality, but doesn't drive the design. Developer uses integration tests, controller tests, and model tests where appropriate.
-* 2: Developer uses tests to guide development, but implements more functionality than the tests cover. Application is missing tests in a needed area such as model, integration, or controller tests.
-* 1: Developer is able to write tests, but they're written after or in the middle of implementation.
-* 0: Developer does not use tests to guide development.
-
-### 10. User Interface (10%)
-
-* 4: The application is pleasant, logical, and easy to use
-* 3: The application has many strong pages/interactions, but a few holes in lesser-used functionality
-* 2: The application shows effort in the interface, but the result is not effective
-* 1: The application is confusing or difficult to use
-
-### 11. Delivery Deadlines (10%)
-
-* 4: The project was completed by 5pm of the day it was assigned. 
-* 3: The project was completed by 9pm of the day it was assigned.
-* 2: The project was completed by 9am the next morning.
-* 1: The project was not completed.
-
-### 12. Workflow(10%)
+### 9. Workflow(10%) [self-assessment then evaluation of self-assessment]
 
 * 4: The developer effectively uses Git branches and many small, atomic commits that document the evolution of their application.
 * 3: The developer makes a series of small, atomic commits that document the evolution of their application. There are no formatting issues in the code base.
@@ -94,8 +80,12 @@ Students are to submit the document to apply for this 10% on a contract basis. A
 * 1: The developer commited the code to version control in only a few commits. The evaluator cannot determine the evolution of the application.
 * 0: The application was not checked into version control.
 
-### 13. GitHub Profile(10%)
 
-* 4. The developer 
+### 10. GitHub Profile(10%) [self-assessment then evaluation of self-assement]
 
-Your top 100% will be taken. Some of these grades will only be given if a form is submitted. Grading will occur maximum one. One grade 
+* 4. The developer has used GitHubPages to share their creative coding projects. (See: http://nature.doublepi.me/info for inspiration, and create your own page via:https://www.youtube.com/watch?v=8HPYsDTk17A Coding Train tutorial)
+* 3. All repositories are created and visualizations(pictures and/or gifs) are present to show what creative coding assignments are present. No website necessary. Documentation states what is in repository(aka: no surprises).
+* 2. All repositories are created but it is hard to figure out what has been completed from ReadMe.md and/or files are not named with correct extensions.
+* 1. Profile shows lack of care and but some work is present.
+
+Your top 100% will be taken. Some of these grades will only be given if a form is submitted. 
