@@ -66,19 +66,19 @@ More to come on this but essentially each section is 10% and completion of all c
 
 ### 8. Javascript Syntax & Style (10%) [self-assessemnt then evaluation of self-assessment]
 
-* 4: Developer uses elegant and idiomatic Javascript to accomplish common tasks. Demonstrates solid understanding of function passing and manipulation. Developer can speak to choices made in the code and knows what every line of code is doing.
-* 3: Developer writes solid Javascript code using common patterns and idioms. Code is organized appropriately within objects and functions. Developer can speak to choices made in the code and knows what every line of code is doing.
-* 2: Developer can accomplish basic tasks with Javascript but implementation is largely copy/pasted or non-idiomatic. Developer is not confident in what every line of the code is doing or cannot speak to the choices made.
-* 1: Developer can manipulate Javascript syntax but implementation is buggy or inconsistent.
-* 0: Developer shows little or no understanding of Javascript syntax and idioms
+* 4. Developer uses elegant and idiomatic Javascript to accomplish common tasks. Demonstrates solid understanding of function passing and manipulation. Developer can speak to choices made in the code and knows what every line of code is doing.
+* 3. Developer writes solid Javascript code using common patterns and idioms. Code is organized appropriately within objects and functions. Developer can speak to choices made in the code and knows what every line of code is doing.
+* 2. Developer can accomplish basic tasks with Javascript but implementation is largely copy/pasted or non-idiomatic. Developer is not confident in what every line of the code is doing or cannot speak to the choices made.
+* 1. Developer can manipulate Javascript syntax but implementation is buggy or inconsistent.
+* 0. Developer shows little or no understanding of Javascript syntax and idioms
 
 ### 9. Workflow(10%) [self-assessment then evaluation of self-assessment]
 
-* 4: The developer effectively uses Git branches and many small, atomic commits that document the evolution of their application.
-* 3: The developer makes a series of small, atomic commits that document the evolution of their application. There are no formatting issues in the code base.
-* 2: The developer makes large commits covering multiple features that make it difficult for the evaluator to determine the evolution of the application.
-* 1: The developer commited the code to version control in only a few commits. The evaluator cannot determine the evolution of the application.
-* 0: The application was not checked into version control.
+* 4. The developer effectively uses Git branches and many small, atomic commits that document the evolution of their application.
+* 3. The developer makes a series of small, atomic commits that document the evolution of their application. There are no formatting issues in the code base.
+* 2. The developer makes large commits covering multiple features that make it difficult for the evaluator to determine the evolution of the application.
+* 1. The developer commited the code to version control in only a few commits. The evaluator cannot determine the evolution of the application.
+* 0. The application was not checked into version control.
 
 
 ### 10. GitHub Profile(10%) [self-assessment then evaluation of self-assement]
